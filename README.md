@@ -1,4 +1,4 @@
 # firstrepo-demo
 This is my first Git Repository
-<hr>
+<br>
 Author-Muhammad Shahzad
